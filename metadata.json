@@ -1,0 +1,5 @@
+{
+  "name": "COBI WORK",
+  "description": "Hệ thống đăng nhập và quản lý công việc COBI WORK liên kết với Supabase.",
+  "requestFramePermissions": []
+}
